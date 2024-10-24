@@ -25,7 +25,7 @@ I may be new to coding, but I’m highly experienced in <b>problem-solving, quic
 <br>
 
 # 📊 GitHub Analytics:
-<div align="center">
+<div align="center" display="flex">
 <a href="https://github.com/ArisGuimera">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ines-sanz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ines-sanz&layout=compact&langs_count=8&theme=transparent"/>
