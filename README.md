@@ -6,25 +6,33 @@
 
 <br>
 
-# 👩🏻‍💻 About Me:
 
-<ul style="font-size:18px;">
-  <li>💻 I’m currently coursing a <b>Full Stack</b> Bootcamp.</li>
-  <li>🙋🏻 I've experience as a <b>graphic and web designer</b>.</li>
-  <li>💡 I've knowledge about <b>UI/UX</b>.</li>
-  <li>☝🏼 Fun fact: I'm actually a Fine Arts graduate.</li>
-  <li>📫 How to reach me: email me at <a href="mailto:inessanzmm@gmail.com">inessanzmm@gmail.com</a></li>
+# 🎨 **Creativity meets Code**  
+Hey there! 👋 I’m Inés, a **Full Stack Developer** with a background in **Fine Arts & UX/UI Design**.  
+While my journey into coding might not be the most traditional, it has been an **exciting and rewarding challenge**.  
+
+I love **solving problems, learning new things, and blending design with technology** to build seamless and engaging web experiences.  
+My skill set includes **JavaScript, React, Python, MySQL**, and I also have experience with **UX/UI, Figma, and Adobe Suite** to craft user-friendly interfaces.  
+
+## 💡 Why coding?  
+After working in digital design, I realized I wanted to take things further—not just **designing**, but also **building**.  
+That’s when I started exploring **frontend and backend development**, and I haven’t stopped since!  
+
+## ❣️ I’m passionate about:  
+✔️ Writing **clean, efficient, and scalable code**  
+✔️ Designing **intuitive and user-friendly interfaces**  
+✔️ **Solving problems creatively** and learning along the way  
+
+✨ Always open to **collaborations, feedback, and new challenges**. Let’s connect and build something awesome together! 🚀  
+
+<ul>
+ <li>📫 How to reach me: email me at <a href="mailto:inessanzmm@gmail.com">inessanzmm@gmail.com</a></li>
+ <li>🌐 My web portfolio: <a href="https://www.ines-sanz.com/">ines-sanz.com</a></li>
 </ul>
 
 <br>
-<div style="font-size:14px;">
-I’m a Fine Arts graduate, which may not seem directly related to coding, but it has taught me the importance of <b>attention to detail, commitment, and always striving for excellence.</b>✨ My background has helped me develop <b>strong organizational and planning skills</b>. After finishing my degree, I focused on digital design and had the opportunity to work in that field. However, I felt the need for a new challenge, which led me to explore coding. 🎯 I believe that combining <b>back-end, front-end, design, and UX/UI</b> will help me build a well-rounded and versatile skill set.
 
-I may be new to coding, but I’m highly experienced in <b>problem-solving, quick learning</b> (something I’m particularly good at), and thinking creatively.💡 I’m always up for new challenges and excited to see where this journey will take me!✈️
- <div/>
-<br>
-
-# 📊 GitHub Analytics:
+#  📊 GitHub Analytics:
 <div align="center" display="flex">
 <a href="https://github.com/ArisGuimera">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ines-sanz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
